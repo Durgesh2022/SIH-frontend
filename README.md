@@ -1,5 +1,4 @@
 # SIH-frontend
-# backend_SIH
 <b>1653 - Web based Selector-Applicant Simulation Software</b><br/>
 
 
